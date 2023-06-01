@@ -1,6 +1,6 @@
 
 <div style="display:flex; flex-direction:column;align-items:center;">
-  ### Hi there 👋 I'm Nathan
+ <h1>Hi there 👋 I'm Nathan</h1>
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanCoquelin&show_icons=true&theme=github_dark_dimmed)
 
