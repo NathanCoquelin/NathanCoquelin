@@ -1,5 +1,5 @@
 
-<div style="display:flex; flex-direction:column;align-items:center;">
+<div style="display:flex; flex-direction:column;align-items:center;justify-content:center;">
  <h1 style="text-align:center;">Hi there 👋 I'm Nathan</h1>
 
   <img src="https://skillicons.dev/icons?i=bash,c,cloudflare,codepen,css,docker,emacs,figma,flask,git,github,githubactions,html&perline=9"/>
