@@ -7,6 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NathanCoquelin&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
  </p>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanCoquelin&theme=github_dark_dimmed&count_private=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  </p>
 </div>
