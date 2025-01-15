@@ -4,10 +4,11 @@
 
   <img style="display:block;width:100%" src="https://skillicons.dev/icons?i=bash,c,cloudflare,codepen,css,docker,emacs,figma,flask,git,github,githubactions,html,java,js,linux,mysql,neovim,nextjs,php,py,redux,rust,sass&perline=12"/>
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NathanCoquelin&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
  </p>
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanCoquelin&layout=compact&theme=github_dark_dimmed" />
  </p>
+ -->
  </div>
