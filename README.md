@@ -1,6 +1,6 @@
 
 <div style="display:flex; flex-direction:column;align-items:center;justify-content:center;">
- <h1 style="text-align:center;">Hi there 👋 I'm Nathan</h1>
+ <h1 style="text-align:center;">Hi there 👋 I'm Nato</h1>
 
   <img style="display:block;width:100%" src="https://skillicons.dev/icons?i=bash,c,cloudflare,codepen,css,docker,emacs,figma,flask,git,github,githubactions,html,java,js,linux,mysql,neovim,nextjs,php,py,redux,rust,sass,java,spring,haskell,idea,nginx,nodejs,notion,react,tailwind,ubuntu,wordpress&perline=12"/>
 
